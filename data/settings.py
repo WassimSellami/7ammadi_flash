@@ -5,7 +5,7 @@ d_height = 1080
 # Visual accent shared by the prize spawn portal and its rotating halo.
 prize_glow_color = (140, 72, 18)
 # Music defaults.
-music_enabled_default = False
+music_enabled_default = True
 sound_enabled_default = True
 music_volume = 0.2
 # Time parameters.
