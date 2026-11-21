@@ -1,0 +1,58 @@
+.kilo
+.kilocode
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Type checkers / linters
+.mypy_cache/
+.ruff_cache/
+.pytype/
+
+# IDE / editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Tooling / local indexes
+.vexp/
+.kilo/agent-manager.json
+.kilo/sessions/
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+
+# Game runtime output
+*.log
+scores.json
+highscores.json
